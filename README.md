@@ -5,7 +5,7 @@ Trata-se de uma calculadora criada em HTML com uma simples aparência e com recu
 
 ---
 
-<p>
-  <img width="160" heigth="300" src="video.gif"
+<p align="center">
+  <img width="460" src="video.gif"
 </p>
 
